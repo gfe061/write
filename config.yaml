@@ -47,7 +47,7 @@ params:
   customCSS: []
   customJS: []
   dateFormatToUse: '2006-01-02'
-  description: Første utkast
+  description: 
   homeFullContent: no
   keywords:
     - Hugo
@@ -60,7 +60,7 @@ params:
   social:
     a-email: mailto:gregory.fergusoncradler@inn.no
     #    b-stack-overflow: http://localhost:1313
-    b-twitter: http://localhost:1313
+    b-twitter: https://twitter.com/fergusoncrad
 #    d-facebook: http://localhost:1313
 #    e-linkedin: http://localhost:1313
 #    f-google: http://localhost:1313
