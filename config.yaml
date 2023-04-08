@@ -4,7 +4,7 @@ enableRobotsTXT: yes
 enableEmoji: yes
 theme: hugo-theme-jane
 hasCJKLanguage: yes
-paginate: 3
+paginate: 10
 rssLimit: 20
 disqusShortname: ''
 googleAnalytics: ''

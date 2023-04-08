@@ -8,10 +8,11 @@ categories:
   - Norge
   - sanksjoner
 tags: []
-lastmod: '2023-04-08T15:37:48+02:00'
+lastmod: '2023-04-08T17:37:48+02:00'
 keywords: []
 description: ''
 comment: no
+fig_caption: true
 toc: no
 autoCollapseToc: no
 contentCopyright: no
@@ -27,15 +28,22 @@ Uansett skapte sanksjonene store forventninger. Flere utenlandske analytikere sp
 
 Det har ikke skjedd. 
 
-Men det er mye som tyder på at sanksjonene rammer Russland hardere enn det ser ut ved første øyekast.
+Men det er \ref{label} mye som tyder på at sanksjonene rammer Russland hardere enn det ser ut ved første øyekast.
 
 Russiske importører har sakte, men sikkert funnet andre erstatninger for vestlige varer i andre land eller begynt med såkalt «parallell-import» – uoffisiell import av vestlige varer gjennom tredjeland. Det fører stort sett til importvarer av litt lavere kvalitet og til litt høyere pris. 
 
 Ikke alt kan erstattes eller importeres gjennom andre land. Vestlige sanksjoner på varer for militære formål har stanset russisk produksjon av noen våpen, inkludert visse typer stridsvogner, raketter og transportmidler. Som svar på dette blir Russland nødt til å kutte produksjon eller nedgradere våpensystemer som produseres. Sanksjonene på slike varer har dermed påført viktige begrensninger i Russlands militære kapasitet.
 
-![caption Handel med Russland.](imp_countries.png)
 
-![Norges handel caption Handel med Russland.](norge_handel.png)
+
+{{< figure src="imp_countries.png" caption="Russlands handel med store handelspartnere" >}}
+
+
+<div class="figure" style="text-align: center">
+<img src="norge_handel.png" alt="Norges handel med Russland" width="100%" />
+<p class="caption">Figure 1: Norges handel med Russland</p>
+</div>
+
 
 Selv om arbeidsledighet er lav, ca. 3,7 prosent, har flere millioner russere blitt permittert, brorparten av dem uten lønn. Derfor estimerer noen analytikere at den ekte arbeidsledigheten er rundt 10 prosent. I tillegg har fra 500.000 til en million russere flyktet til utlandet. De er hovedsakelig unge, godt utdannete menn. Minst 100.000 av dem er IT-spesialister, det reelle tallet kan være mye høyere. De er – eller var – landets fremtid.
 
