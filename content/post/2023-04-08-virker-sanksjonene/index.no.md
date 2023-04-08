@@ -33,7 +33,7 @@ Russiske importører har sakte, men sikkert funnet andre erstatninger for vestli
 
 Ikke alt kan erstattes eller importeres gjennom andre land. Vestlige sanksjoner på varer for militære formål har stanset russisk produksjon av noen våpen, inkludert visse typer stridsvogner, raketter og transportmidler. Som svar på dette blir Russland nødt til å kutte produksjon eller nedgradere våpensystemer som produseres. Sanksjonene på slike varer har dermed påført viktige begrensninger i Russlands militære kapasitet.
 
-![imp_countries.jpg caption Handel med Russland.](imp_countries.png)
+![caption Handel med Russland.](imp_countries.png)
 
 ![Norges handel caption Handel med Russland.](norge_handel.png)
 
