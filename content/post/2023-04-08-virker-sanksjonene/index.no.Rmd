@@ -23,7 +23,7 @@ Da russiske styrker strømmet over grensen til Ukraina for ett år siden innfør
 
 Den mest effektive metoden for å påføre Russland umiddelbar krise hadde vært en brå stopp i kjøp av alle russiske gass og oljeprodukter, men omfattende sanksjoner på russiske fossile brensler ble ikke noe av. Mens land som USA raskt kunne kutte kjøp av russisk olje og gass, trengte de alle fleste landene i Europa tid for overgang til andre energikilder. Dermed ble Russlands største inntektskilde uberørt i krigens første måneder. Istedenfor å slutte å kjøpe fossile brensler fra Russland fortsatte Europa å importere til rekordhøye priser, slik at Russlands eksportinntekter skjøt i været. Resultatet var at Russlands budsjett gikk i pluss. Landets «oljefond» økte. 
 
-	Uansett skapte sanksjonene store forventninger. Flere utenlandske analytikere spådde en russisk økonomisk nedgang av 10-20 prosent. Noen ventet en kollaps i russiske finans- og valutamarkeder. 
+Uansett skapte sanksjonene store forventninger. Flere utenlandske analytikere spådde en russisk økonomisk nedgang av 10-20 prosent. Noen ventet en kollaps i russiske finans- og valutamarkeder. 
 
 Det har ikke skjedd. 
 
@@ -39,13 +39,13 @@ Ikke alt kan erstattes eller importeres gjennom andre land. Vestlige sanksjoner 
 
 Selv om arbeidsledighet er lav, ca. 3,7 prosent, har flere millioner russere blitt permittert, brorparten av dem uten lønn. Derfor estimerer noen analytikere at den ekte arbeidsledigheten er rundt 10 prosent. I tillegg har fra 500.000 til en million russere flyktet til utlandet. De er hovedsakelig unge, godt utdannete menn. Minst 100.000 av dem er IT-spesialister, det reelle tallet kan være mye høyere. De er – eller var – landets fremtid.
 
-	I tillegg har statens finanser forverret seg. Statlige utgifter tilknyttet krigen øker. De astronomiske prisene på olje og gass i 2022 har sunket. I tillegg virker det som om EUs «pristak» har en viss effekt, selv om det er for tidlig å si noe om langsiktige resultater. 
+I tillegg har statens finanser forverret seg. Statlige utgifter tilknyttet krigen øker. De astronomiske prisene på olje og gass i 2022 har sunket. I tillegg virker det som om EUs «pristak» har en viss effekt, selv om det er for tidlig å si noe om langsiktige resultater. 
 
 Totalt i 2022 havnet det russiske statsbudsjettet i minus med underskudd av 2,3% av BNP. Militærutgiftene utgjør nåomtrent. en tredel av budsjettet og kommer bare til å øke. Russlands finansministerium prognoserer et underskudd på ca. 2 prosent  av BNP i 2023, mens tall fra januar tyder på at tallet vil øke mot 5 prosent. 
 
 Statsministeren Mikhail Misjustin har snakket om behov for «inntektsmobilisering». Staten krevde «frivillige» donasjoner fra Gazprom i slutten av 2022 og forhandler nå med næringslivet om hvor mye hundrevis av store russiske selskaper «ønsker» å donere i år. Det er også fullt mulig at andre statlige utgifter –  utviklingsprosjekter og infrastruktur –- vil kuttes for å muliggjøre større satsing på militæret. Slike prioriteringer skaper faren for en ond sirkel hvor dagens umiddelbare behov prioriteres på bekostning av velstand og stabilitet i fremtiden.
 
-	Vi vet fra sovjetisk historie at ledere etter Stalin, særlig under Bresjnev-periodens stagnasjon, var redde for protester – ofte mer enn de egentlig burde vært. Putin har en krig å finansiere, men i hans årlige tale til nasjonen fremla han også planer om mer hjelp til veteraner og støtte til okkupasjonsområder i Øst-Ukraina. Dette er dyrt. Presset på statsbudsjettet vil øke. For et regime som er bygget på argumentet at de fikk slutt på 1990-tallets kaos og elendighet kan stagnerende levestandarder undergrave dets legitimitet.
+Vi vet fra sovjetisk historie at ledere etter Stalin, særlig under Bresjnev-periodens stagnasjon, var redde for protester – ofte mer enn de egentlig burde vært. Putin har en krig å finansiere, men i hans årlige tale til nasjonen fremla han også planer om mer hjelp til veteraner og støtte til okkupasjonsområder i Øst-Ukraina. Dette er dyrt. Presset på statsbudsjettet vil øke. For et regime som er bygget på argumentet at de fikk slutt på 1990-tallets kaos og elendighet kan stagnerende levestandarder undergrave dets legitimitet.
 
 Sanksjonene forhindrer noe våpenproduksjon og vanskeliggjør finansiering av krigen. Men det er lite sannsynlig at sanksjoner vil føre direkte til at folk kommer ut i gatene for å protestere og å styrte regimet. 
 
