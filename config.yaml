@@ -1,5 +1,5 @@
-baseURL: http://localhost:1313/
-title: Jane - A super concise theme for Hugo
+baseURL: https://ghfc.netlify.app/
+title: Første utkast
 enableRobotsTXT: yes
 enableEmoji: yes
 theme: hugo-theme-jane
@@ -14,7 +14,7 @@ languages:
   en:
     languageCode: en
 author:
-  name: me
+  name: GFC
   url: /about
 sitemap:
   changefreq: weekly
@@ -47,19 +47,19 @@ params:
   customCSS: []
   customJS: []
   dateFormatToUse: '2006-01-02'
-  description: my trial blog site
+  description: Første utkast
   homeFullContent: no
   keywords:
     - Hugo
     - theme
     - jane
-  logoTitle: BLOGTITLE
+  logoTitle: Første utkast
   photoswipe: yes
   rssFullContent: yes
   since: '2023'
   social:
-    a-email: mailto:your@email.com
-#    b-stack-overflow: http://localhost:1313
+    a-email: mailto:gregory.fergusoncradler@inn.no
+    #    b-stack-overflow: http://localhost:1313
     b-twitter: http://localhost:1313
 #    d-facebook: http://localhost:1313
 #    e-linkedin: http://localhost:1313

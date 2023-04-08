@@ -1,3 +1,6 @@
+# REMINDER HOW TO COMMIT TO GIT:
+# git add *, git commit -m "xxx", git push -u origin main
+
 baseURL = "http://localhost:1313/"
 title = Blog title goes here!#"Jane - A super concise theme for Hugo"
 enableRobotsTXT = true
