@@ -3,7 +3,7 @@ categories:
 - docs
 - Development
 - index
-date: "2022-10-15"
+date: "2023-04-08"
 description: ""
 #menu:
 #  main:
@@ -19,8 +19,7 @@ title: How to Contribute
 
 ## Contributing to Jane
 
-There are many ways to contribute to the Jane theme: submitting pull requests, reporting issues, providing new translations, and creating suggestions.
-
+Changes!!
 
 ## Build and Run
 
